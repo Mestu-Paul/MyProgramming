@@ -21,5 +21,4 @@
                 <li>Solution: <a href="Spoj/LowestCommonAncestor(LCA)/LowestCommonAncestor.md">Lowest Common Ancestor</a></li>
             </ul>
         </ol>
-    </details>
 </ul>
