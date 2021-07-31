@@ -1,6 +1,6 @@
-///problem link : https://www.spoj.com/problems/DICT/
-///algorithm : Trie
-
+## Algorithm: Trie
+## Problem link : [TRYCOMP - Try to complete](https://www.spoj.com/problems/TRYCOMP/)
+```c++
 #include <bits/stdc++.h>
 using namespace std;
 #define ll long long
@@ -31,7 +31,7 @@ using namespace std;
 #define no cout<<"No"<<endl
 #define FIO ios_base::sync_with_stdio(0);cin.tie(0);cout.tie(0);
 #define t_c int test, cs = 1;cin>>test;while (test--)
-#define casep cout<<"Case #"<< cs++<<":"<<endl;
+#define casep cout<<"Case"<< cs++<<": ";
 ///................function.....................///
 
 #define D(a) (double)(a)
@@ -46,72 +46,69 @@ int X[] = {1, -1, 0, 0};
 int Y[] = {0, 0, 1, -1};
 ///........constant........///
 const ll N = 1e6;
-struct Trie
-{
+int val;
+string s;
+struct Trie{
     Trie* Next[26];
-    vi pos;
+    int leaf,count;
+    string store;
     Trie(){
-        pos.clear();
-        for(int i=0; i<26; i++)Next[i]=NULL;
+        leaf=0,count=0;
+        for(int i=0; i<26; i++)
+            Next[i]=NULL;
     }
 };
-void Insert(Trie* root, string s, int pos){
-    for(int i=0; i<siz(s); i++){
-        int c = s[i]-'a';
-        if(root->Next[c]==NULL){
-            root->Next[c]=new Trie;
+void build(int pos, int n, Trie* root){
+    if(pos==n){
+        root->leaf++;
+        val=root->leaf;
+        if(root->count < root->leaf){
+            root->count = root->leaf;
+            root->store = s;
         }
-        root = root->Next[c];
-        root->pos.pb(pos);
+        else if(root->count == root->leaf){
+            root->store = min(root->store,s);
+        }
+        return ;
+    }
+    int c = s[pos]-'a';
+    if(root->Next[c]==NULL){
+        root->Next[c] = new Trie;
+    }
+    build(pos+1,n,root->Next[c]);
+    if(root->count < val){
+        root->store = s;
+        root->count = val;
+    }
+    else if(root->count == val){
+        root->store = min(s,root->store);
     }
 }
-vi query(string s,Trie* root){
-    bool ok=1;
+pair<int,string>query(Trie* root){
+
     for(int i=0; i<siz(s); i++){
         int c = s[i]-'a';
-        if(root->Next[c]==NULL){
-            ok=0;break;
-        }
+        if(root->Next[c]==NULL)return mp(0,"");
         root = root->Next[c];
     }
-    vi ret,tmp={};
-    if(!ok)return tmp;
-    for(int i=0; i<26; i++){
-        if(root->Next[i]==NULL)continue;
-        tmp = root->Next[i]->pos;
-        for(auto it:tmp)ret.pb(it);
-    }
-    return ret;
+    return mp(root->count,root->store);
 }
 int main(){
     FIO;
+    Trie* root = new Trie;
     int n,i,j;
     cin>>n;
-    vs p(n);
-    Trie* root=new Trie;
-    map<string,bool>st;
     for(i=0; i<n; i++){
-        cin>>p[i];
-    }
-    sort(all(p));
-    for(i=0; i<n; i++){
-        if(!st[p[i]]){
-            st[p[i]]=1;
-            Insert(root,p[i],i);
-        }
+        cin>>s;
+        build(0,siz(s),root);
     }
     cin>>n;
-    string s;
-    int cs=1;
-    while (n--){
+    while(n--){
         cin>>s;
-        vi res = query(s,root);
-        casep;
-        if(res.size()==0){
-            cout<<"No match."<<endl;
-            continue;
-        }
-        for(auto it:res)cout<<p[it]<<endl;
+        pair<int,string>ress=query(root);
+        if(ress.ff==0)cout<<-1<<endl;
+        else cout<<ress.ss<<" "<<ress.ff<<endl;
     }
-    
+    return 0;
 } 
+```

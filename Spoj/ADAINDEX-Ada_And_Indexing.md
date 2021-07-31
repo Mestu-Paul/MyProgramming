@@ -1,5 +1,7 @@
-///problem link : https://www.spoj.com/problems/DICT/
-///algorithm : trie 
+## Algorithm: Trie
+## Proble: [ADAINDEX - Ada and Indexing](https://www.spoj.com/problems/ADAINDEX/)
+
+```c++
 #include <bits/stdc++.h>
 using namespace std;
 #define ll long long
@@ -45,37 +47,54 @@ int X[] = {1, -1, 0, 0};
 int Y[] = {0, 0, 1, -1};
 ///........constant........///
 const ll N = 1e6;
-
-int main(){
-    FIO;
-    int n,i,j;
-    cin>>n;
-    string p;
-    vs s(n);
-    map<string,vi>save;
-    for(i=0; i<n; i++){
-        cin>>s[i];
+struct Trie
+{
+    Trie* Next[26];
+    int pref;
+    Trie(){
+        pref=0;
+        for(int i=0; i<26; i++)Next[i]=NULL;
     }
-    sort(all(s));
-    UNIQUE(s);
-    for(i=0; i<s.size(); i++){
-        p="";
-        for(j=0; j<s[i].size(); j++){
-            p+=s[i][j];
-            save[p].pb(i);
+};
+void Insert(Trie* root, string s){
+    for(int i=0; i<siz(s); i++){
+        int c = s[i]-'a';
+        if(root->Next[c]==NULL){
+            root->Next[c]=new Trie;
         }
-    }
-    cin>>n;
-    int cs=1;
-    while(n--){
-        cin>>p;
-        casep;
-        bool ok=1;
-        for(auto it:save[p]){
-            if(s[it]==p)continue;
-            cout<<s[it]<<endl;
-            ok=0;
-        }
-        if(ok)cout<<"No match."<<endl;
+        root = root->Next[c];
+        root->pref++;
     }
 }
+int query(string s,Trie* root){
+    bool ok=1;
+    for(int i=0; i<siz(s); i++){
+        int c = s[i]-'a';
+        if(root->Next[c]==NULL){
+            ok=0;break;
+        }
+        root = root->Next[c];
+    }
+    vi ret,tmp={};
+    if(!ok)return 0;
+
+    return root->pref;
+}
+int main(){
+    FIO;
+    int n,i,j,m;
+    cin>>n>>m;
+    string s;
+    Trie* root=new Trie;
+    for(i=0; i<n; i++){
+        cin>>s;
+        Insert(root,s);
+    }
+    while (m--){
+        cin>>s;
+        int res = query(s,root);
+        cout<<res<<endl;
+    }
+    
+}
+```

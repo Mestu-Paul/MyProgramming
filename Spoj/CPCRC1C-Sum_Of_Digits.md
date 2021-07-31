@@ -1,5 +1,6 @@
-///problem link : https://www.spoj.com/problems/CPCRC1C/
-///algorithm : digitDP
+## Algorithm: Digit DP
+## Problem link: [CPCRC1C - Sum of Digits](https://www.spoj.com/problems/CPCRC1C/)
+```c++
 #include <bits/stdc++.h>
 using namespace std;
 #define ll long long
@@ -104,3 +105,4 @@ int main()
         v.clear();
     }
 }
+```

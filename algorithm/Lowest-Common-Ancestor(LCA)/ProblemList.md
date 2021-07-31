@@ -27,7 +27,7 @@
     </details>
     <details>
         <summary>Codechef</summary>
-        <b> All problems are added from CODECHEG searching tag , so one or more problems may be not LCA based problem</b>
+        <b> All problems are added from CODECHEF searching tag , so one or more problems may be not LCA based problem</b>
         <ol>
             <li>Problem: <a href="https://www.codechef.com/problems/RBTREE">Chef and Red Black Tree</a></li>
             <li>Problem: <a href="https://www.codechef.com/problems/BINTREEQ">Queries on a Binary Tree</a></li>
