@@ -1,5 +1,5 @@
 ## Algorithm: Digit DP
-## Problem link: [CPCRC1C - Sum of Digits](https://www.spoj.com/problems/CPCRC1C/)
+## Problem link: <a href="https://www.spoj.com/problems/CPCRC1C/">CPCRC1C - Sum of Digits</a>
 ```c++
 #include <bits/stdc++.h>
 using namespace std;

@@ -1,5 +1,5 @@
 ## Algorithm : Shortest Path
-## Problem : [106 miles to Chicago](https://www.spoj.com/problems/CHICAGO/)
+## Problem : <a href="https://www.spoj.com/problems/CHICAGO/">106 miles to Chicago</a>
 ```c++
 #include <bits/stdc++.h>
 using namespace std;

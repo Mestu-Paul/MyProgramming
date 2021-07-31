@@ -1,5 +1,5 @@
 ## Algorithm: Trie
-## problem link : [DICT - Search in the dictionary!](https://www.spoj.com/problems/DICT/)
+## problem: [DICT - Search in the dictionary!](https://www.spoj.com/problems/DICT/)
 
 <details>
     <summary>Method 1</summary>

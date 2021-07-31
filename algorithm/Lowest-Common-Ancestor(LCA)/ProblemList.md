@@ -5,7 +5,7 @@
         <ol>
             <li>Problem: <a href="https://leetcode.com/problems/kth-ancestor-of-a-tree-node/">Kth Ancestor of a Tree Node</a></li>
             <ul>
-                <li>Solution: <a href="LeetCode/LowestCommonAncestor(LCA)/KthAncestorOfATreeNode.md">Kth Ancestor of a Tree Node</a></li>
+                <li>Solution: <a href="https://github.com/Mestu-Paul/MyProgramming/blob/master/LeetCode/Kth_Ancestor_of_a_Tree_Node.md">Kth Ancestor of a Tree Node</a></li>
             </ul>
             <li>Problem: <a href="https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/">lowest common ancestor of a binary search tree</a></li>
             <li>Problem: <a href="https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree">Lowest Common Ancestor of a Binary Tree</a></li>
