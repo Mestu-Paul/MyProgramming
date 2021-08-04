@@ -1,5 +1,5 @@
 ## Algorithm: Fenwick Tree (Interval)
-## Problem: [INTERVA2 - Interval Challenge](https://www.spoj.com/problems/INTERVA2/cstart=10)
+## Problem: <a href="https://www.spoj.com/problems/INTERVA2/cstart=10">INTERVA2 - Interval Challenge</a>
 ```c++
 #include <bits/stdc++.h>
 using namespace std;
