@@ -9,4 +9,16 @@
             </ul>
         </ol>
     </details>
+    <details>
+        <summary>SPOJ</summary>
+        <ol>
+            <li>Problem: <a href="https://www.spoj.com/problems/RMQSQ/">Sqaure Queries</a></li>
+        </ol>
+    </details>
+    <details>
+        <summary>CSES</summary>
+        <ol>
+            <li>Problem: <a href="https://cses.fi/problemset/task/1647">Sqaure Queries</a></li>
+        </ol>
+    </details>
 </ol>
