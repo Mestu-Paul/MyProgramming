@@ -7,6 +7,10 @@
             <ul>
                 <li>Solution: <a href="https://github.com/MyProgramming/blob/master/LightOj/Square_Queries.md">Square Queries</a></li>
             </ul>
+            <li>Problem: <a href="https://lightoj.com/problem/a-secret-mission">A Secret Mission</a></li>
+            <ul>
+                <li>Solution: <a href="https://github.com/Mestu-Paul/MyProgramming/blob/master/LightOj/A_Secret_Mission.md">A Secret Mission</a></li>
+            </ul>
         </ol>
     </details>
     <details>
