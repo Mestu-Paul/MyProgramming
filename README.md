@@ -4,7 +4,7 @@ Here some problem different algorithm base and from different online judge which
 </br>
 </br>
 <details>
-    <summary><h2>Algorithm Based Problem</h2></sumarry></br>
+    <summary><h2>Algorithm Based Problem</h2></summary>
     <h4><a href="https://github.com/Mestu-Paul/MyProgramming/blob/master/algorithm/Binary_Search">Binary Search</a></h4>
     <h4><a href="https://github.com/Mestu-Paul/MyProgramming/blob/master/algorithm/DP">Dynamic Programming</a></h4>
     <h4><a href="https://github.com/Mestu-Paul/MyProgramming/blob/master/algorithm/Floyd-Warshall">Floyd Warshall</a></h4>
