@@ -6,6 +6,10 @@ using std::endl;
 #include <fstream>
 using std::ofstream;
 #include <cstdlib>
+string Cut(string s, char Current, char Replace){
+    for(int i=0; i<s.size(); i++)if(s[i]==Current)s[i]=Replace;
+    return s;
+}
 int main()
 {
    ofstream outdata;
@@ -20,15 +24,18 @@ int main()
         for(int i=0; i<Problem_Name.size(); i++)if(Problem_Name[i]==' ')Problem_Name[i]='_';
         cout<<"Problem link: ";cin>>Problem_Link;
         cout<<"Judge Name: ";cin>>Judge_Name;
+        ///create link
         int s_len = strlen(s),i;
         for(i=s_len; i<s_len+Judge_Name.size(); i++)s[i]=Judge_Name[i-s_len];s[i++]='/';s_len+=Judge_Name.size()+1;
         for(i=s_len; i<s_len+Problem_Name.size(); i++)s[i]=Problem_Name[i-s_len];s[i++]='.';s[i++]='m';s[i++]='d';s[i]='\0';
         cout<<"Algorigm: ";cin>>Algorithm;
         Solution_Link = "/home/mestu/Documents/git/MyProgramming/blob/master/"+Judge_Name+"/"+Problem_Name+".md";
+        ///Create new file
         outdata.open(s);
         outdata<<"<h2> Algorithm: "<<Algorithm<<"</h2>"<<endl;
-        outdata<<"<h2> Problem: <a href=\""<<Problem_Link<<"\">"<<Problem_Name<<"</a></li></h3>"<<endl;
+        outdata<<"<h2> Problem: <a href=\""<<Problem_Link<<"\">"<<Cut(Problem_Name,'_',' ')<<"</a></li></h2>"<<endl;
         outdata<<endl<<"```c++\n\n```"<<endl;
+        //File Close
         outdata.close();
         cout<<"Done first part"<<endl;
     }
@@ -50,12 +57,12 @@ int main()
     }
     if(New){
         outdata<<"\t<details>\n\t\t<summary>"<<Judge_Name<<"</summary>\n\t\t<ol>"<<endl;
-        outdata<<"\t\t\t<li>Problem: <a href=\""<<Problem_Link<<"\">"<<Problem_Name<<"</a></li>"<<endl;
-        outdata<<"\t\t\t<ul>\n\t\t\t\t<li>Solution: <a href=\""<<Solution_Link<<"</a></li>\n\t\t\t</ul>\n\t\t</ol>\n\t</details>"<<endl;
+        outdata<<"\t\t\t<li>Problem: <a href=\""<<Problem_Link<<"\">"<<Cut(Problem_Name,'_',' ')<<"</a></li>"<<endl;
+        outdata<<"\t\t\t<ul>\n\t\t\t\t<li>Solution: <a href=\""<<Solution_Link<<"\">"<<Cut(Problem_Name,'_',' ')<<"</a></li>\n\t\t\t</ul>\n\t\t</ol>\n\t</details>"<<endl;
     }
     else{
-        outdata<<"\t\t\t<li>Problem: <a href=\""<<Problem_Link<<"\">"<<Problem_Name<<"</a></li>"<<endl;
-        outdata<<"\t\t\t<ul>\n\t\t\t\t<li>Solution: <a href=\""<<Solution_Link<<"></a>"<<Problem_Name<<"</li>\n\t\t\t</ul>\n"<<endl;
+        outdata<<"\t\t\t<li>Problem: <a href=\""<<Problem_Link<<"\">"<<Cut(Problem_Name,'_',' ')<<"</a></li>"<<endl;
+        outdata<<"\t\t\t<ul>\n\t\t\t\t<li>Solution: <a href=\""<<Solution_Link<<"></a>"<<Cut(Problem_Name,'_',' ')<<"</li>\n\t\t\t</ul>\n"<<endl;
     }
     outdata.close();
     return 0;

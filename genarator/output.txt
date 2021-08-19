@@ -1,5 +1,9 @@
-			<li>Problem: <a href="https://www.spoj.com/problems/RMQSQ/">RMQSQ-Range Minimum Query</a></li>
+	<details>
+		<summary>LightOj</summary>
+		<ol>
+			<li>Problem: <a href="https://lightoj.com/problem/crossed-ladders">1062_Crossed_Ladders</a></li>
 			<ul>
-				<li>Solution: <a href="/home/mestu/Documents/git/MyProgramming/blob/master/Spoj/RMQSQ-Range Minimum Query.md">RMQSQ-Range Minimum Query</a></li>
+				<li>Solution: <a href="/home/mestu/Documents/git/MyProgramming/blob/master/LightOj/1062_Crossed_Ladders.md</a></li>
 			</ul>
-
+		</ol>
+	</details>
