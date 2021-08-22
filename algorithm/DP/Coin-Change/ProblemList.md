@@ -13,4 +13,13 @@
             </ul>
         </ol>
     </details>
+    <details>
+		<summary>LightOj</summary>
+		<ol>
+			<li>Problem: <a href="https://lightoj.com/problem/coin-change-i">1231 Coin Change (I)</a></li>
+			<ul>
+				<li>Solution: <a href="/home/mestu/Documents/git/MyProgramming/blob/master/LightOj/1231_Coin_Change_(I).md">1231 Coin Change (I)</a></li>
+			</ul>
+		</ol>
+	</details>
 </ul>
