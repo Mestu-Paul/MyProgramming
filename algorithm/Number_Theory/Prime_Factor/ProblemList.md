@@ -1,3 +1,5 @@
+<h3>Number theory : Prime factorization</h3>
+<ul>
 	<details>
 		<summary>LightOj</summary>
 		<ol>
@@ -7,3 +9,4 @@
 			</ul>
 		</ol>
 	</details>
+</ul>

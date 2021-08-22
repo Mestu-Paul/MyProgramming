@@ -18,7 +18,9 @@ int main()
     int solution=0;
     cout<<"For solution writing? (0/1): ";cin>>solution;
     string Problem_Link="",Judge_Name="",Algorithm="",Problem_Name="",Solution_Link="";
+    bool First_part=1;
     if(solution){
+        First_part=0;
         cin.ignore();
         cout<<"Problem Name: ";getline(cin,Problem_Name);
         for(int i=0; i<Problem_Name.size(); i++)if(Problem_Name[i]==' ')Problem_Name[i]='_';
@@ -32,7 +34,7 @@ int main()
         Solution_Link = "/home/mestu/Documents/git/MyProgramming/blob/master/"+Judge_Name+"/"+Problem_Name+".md";
         ///Create new file
         outdata.open(s);
-        outdata<<"<h2> Algorithm: "<<Algorithm<<"</h2>"<<endl;
+        outdata<<"<h2> Algorithm: "<<Cut(Algorithm,'_',' ')<<"</h2>"<<endl;
         outdata<<"<h2> Problem: <a href=\""<<Problem_Link<<"\">"<<Cut(Problem_Name,'_',' ')<<"</a></li></h2>"<<endl;
         outdata<<endl<<"```c++\n\n```"<<endl;
         //File Close
@@ -41,11 +43,13 @@ int main()
     }
     cout<<"2nd part start"<<endl;
     int New=0;
-    if(Problem_Name.size()==0){cin.ignore();cout<<"Problem Name: ";getline(cin,Problem_Name);
-    for(int i=0; i<Problem_Name.size(); i++)if(Problem_Name[i]==' ')Problem_Name[i]='_';}
-    if(Problem_Link.size()==0){cout<<"Problem link: ";cin>>Problem_Link;}
-    if(Judge_Name.size()==0){cout<<"Judge Name: ";cin>>Judge_Name;}
-    if(Algorithm.size()==0){cout<<"Algorigm: ";cin>>Algorithm;}
+    if(First_part){
+        cin.ignore();cout<<"Problem Name: ";getline(cin,Problem_Name);
+        for(int i=0; i<Problem_Name.size(); i++)if(Problem_Name[i]==' ')Problem_Name[i]='_';
+        cout<<"Problem link: ";cin>>Problem_Link;
+        cout<<"Judge Name: ";cin>>Judge_Name;
+        cout<<"Algorigm: ";cin>>Algorithm;
+    }
     Solution_Link = "/home/mestu/Documents/git/MyProgramming/blob/master/"+Judge_Name+"/"+Problem_Name+".md";
     cout<<"It is new judge for this algo (1/0): ";cin>>New;
 
