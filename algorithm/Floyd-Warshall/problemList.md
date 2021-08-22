@@ -53,7 +53,7 @@
             <ol>
                 <li> Problem: <a href="http://www.spoj.com/problems/INGRED/"> Ingredients</a></li>
                 <ul>
-                    <li>  Solution: <a href="https://github.com/Mestu-Paul/MyProgramming/blob/master/Spoj/Floyd-Warshall/INGRED%20-%20Ingredients.md"> Ingredients</a></li>
+                    <li>  Solution: <a href="https://github.com/Mestu-Paul/MyProgramming/blob/master/Spoj/INGRED%20-%20Ingredients.md"> Ingredients</a></li>
                 </ul>
                 <li> Problem: <a href="http://www.spoj.com/problems/CHICAGO/"> 106 miles to Chicago</a></li>
                 <ul>
@@ -61,15 +61,15 @@
                 </ul>
                 <li> Problem: <a href="http://www.spoj.com/problems/ARBITRAG/"> Arbitrage</a></li>
                 <ul>
-                    <li>  Solution: <a href="https://github.com/Mestu-Paul/MyProgramming/blob/master/Spoj/Floyd-Warshall/ARBITRAG%20-%20Arbitrage.md">Arbitrage </a></li>
+                    <li>  Solution: <a href="https://github.com/Mestu-Paul/MyProgramming/blob/master/Spoj/ARBITRAG%20-%20Arbitrage.md">Arbitrage </a></li>
                 </ul>
                 <li> Problem: <a href="https://www.spoj.com/problems/SOCIALNE/">SOCIALNE - Possible Friends </a></li> 
                 <ul>
-                    <li>  Solution: <a href="https://github.com/Mestu-Paul/MyProgramming/blob/master/Spoj/Floyd-Warshall/SOCIALNE%20-%20Possible%20Friends.md"> SOCIALNE - Possible Friends</a></li>
+                    <li>  Solution: <a href="https://github.com/Mestu-Paul/MyProgramming/blob/master/Spoj/SOCIALNE%20-%20Possible%20Friends.md"> SOCIALNE - Possible Friends</a></li>
                 </ul>
                 <li> Problem: <a href="http://www.spoj.com/problems/ROHAAN/"> Defend the Rohan</a></li>
                 <ul>
-                    <li>  Solution: <a href="https://github.com/Mestu-Paul/MyProgramming/blob/master/Spoj/Floyd-Warshall/ROHAAN%20-%20Defend%20The%20Rohan.md"> Defend the Rohan</a></li>
+                    <li>  Solution: <a href="https://github.com/Mestu-Paul/MyProgramming/blob/master/Spoj/ROHAAN%20-%20Defend%20The%20Rohan.md"> Defend the Rohan</a></li>
                 </ul>
             </ol>
         </details>

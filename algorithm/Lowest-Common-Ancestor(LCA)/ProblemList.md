@@ -17,11 +17,11 @@
         <ol>
             <li>Problem: <a href="https://www.spoj.com/problems/ADAVISIT/">Ada and Plum</a></li>
             <ul>
-                <li>Solution: <a href="https://github.com/Mestu-Paul/MyProgramming/blob/master/Spoj/LowestCommonAncestor(LCA)/AdaAndPlum.md">Ada and Plum</a></li>
+                <li>Solution: <a href="https://github.com/Mestu-Paul/MyProgramming/blob/master/Spoj/AdaAndPlum.md">Ada and Plum</a></li>
             </ul>
             <li>Problem: <a href="https://www.spoj.com/problems/LCASQ/">Lowest Common Ancestor</a></li>
             <ul>
-                <li>Solution: <a href="https://github.com/Mestu-Paul/MyProgramming/blob/master/Spoj/LowestCommonAncestor(LCA)/LowestCommonAncestor.md">Lowest Common Ancestor</a></li>
+                <li>Solution: <a href="https://github.com/Mestu-Paul/MyProgramming/blob/master/Spoj/LowestCommonAncestor.md">Lowest Common Ancestor</a></li>
             </ul>
         </ol>
     </details>

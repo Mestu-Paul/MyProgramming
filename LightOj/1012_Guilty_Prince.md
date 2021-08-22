@@ -1,3 +1,7 @@
+<h2> Algorithm: BFS_and_DFS</h2>
+<h2> Problem: <a href="https://lightoj.com/problem/guilty-prince">1012 Guilty Prince</a></li></h2>
+
+```c++
 #include <bits/stdc++.h>
 using namespace std;
 #define ll long long
@@ -22,7 +26,7 @@ using namespace std;
 #define UNIQUE(X) (X).erase(unique(all(X)), (X).end())
 #define ft cout << "for test"<<endl;
 #define read(v, a, n) for (int i = a; i<n; i++)cin>>v[i];
-#define print(v) for (auto it : v)cout << it<<' ';cout << endl;
+#define print(v) for (auto it : v)cout << it<<endl//' ';cout << endl;
 #define PI acos(-1.0)
 #define yes cout <<"Yes"<< endl
 #define no cout<<"No"<<endl
@@ -37,50 +41,45 @@ using namespace std;
 #define max3(a, b, c) max(a, max(b, c))
 #define min3(a, b, c) min(a, min(b, c))
 #define Min(a) *min_element(all(a))
-///#define mod 1000000007
+#define mod 100000007
 ///.........Graph.........///
 int X[] = {1, -1, 0, 0};
 int Y[] = {0, 0, 1, -1};
 ///........constant........///
-const ll N = 1e6+5;
+const ll N = 1e5+5;
 int main(){
-    FIO;
-    int n;
-    while(cin>>n and n){
-        vi v(n+1);
-        vi store(n+1);
-        int i,j,a,b;
-        string s;
-        for(i=1; i<=n; i++){
-            cin>>a>>s;
-            v[i]= a;
-            store[i]=(s=="true");
-        }
-        
-        bool hobe=1;
-        
-        for(i=1; i<=n; i++){
-            vi ans(n+1,-1);
-            bool True=1;
-            ans[i]=1;
-            int now = v[i],speech=store[i];
-            while(ans[now]==-1){
-                if(True)
-                    ans[now] = speech;
-                else ans[now] = !speech;
-
-                True = ans[now];
-                speech = store[now];
-                now = v[now];
-            }
-            ///cout<<i<<" "<<True<<" "<<ans[now]<<" "<<speech<<endl;
-            if(True && ans[now]!=speech)
-                hobe=0;
-            else if(!True && ans[now]==speech)
-                hobe=0;
-            if(hobe==0)break;
-        }
-        if(hobe)cout<<"NOT PARADOX"<<endl;
-        else cout<<"PARADOX"<<endl;
-    }
+	FIO;
+	t_c{
+		int n,m,i,j;
+		cin>>m>>n;
+		string S[n];
+		queue<pii>q;
+		vector<vb>vis(n,vb(m,false));
+		for(i=0; i<n; i++){
+			cin>>S[i];
+			for(j=0; j<m; j++){
+				if(S[i][j]=='@')
+					q.push({i,j});
+				if(S[i][j]=='#' or S[i][j]=='@')
+					vis[i][j]=true;
+			}
+		}
+		j=1;
+		while(!q.empty()){
+			pii u = q.front();
+			q.pop();
+			for(i=0; i<4; i++){
+				int x = u.ff+X[i];
+				int y = u.ss+Y[i];
+				if(0<=x and x<n and 0<=y and y<m and vis[x][y]==false){
+					vis[x][y]=true;
+					j++;
+					q.push({x,y});
+				}
+			}
+		}
+		casep;
+		cout<<j<<endl;
+	}
 }
+```

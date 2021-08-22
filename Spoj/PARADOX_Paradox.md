@@ -1,6 +1,7 @@
-//problem link : https://www.spoj.com/problems/PARADOX/
-//algo : graph
+<h2> Algorithm: BFS_and_DFS</h2>
+<h2> Problem: <a href="https://www.spoj.com/problems/PARADOX/">PARADOX Paradox</a></li></h2>
 
+```c++
 #include <bits/stdc++.h>
 using namespace std;
 #define ll long long
@@ -86,3 +87,5 @@ int main(){
         else cout<<"PARADOX"<<endl;
     }
 }
+
+```
