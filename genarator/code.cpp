@@ -31,7 +31,7 @@ int main()
         for(i=s_len; i<s_len+Judge_Name.size(); i++)s[i]=Judge_Name[i-s_len];s[i++]='/';s_len+=Judge_Name.size()+1;
         for(i=s_len; i<s_len+Problem_Name.size(); i++)s[i]=Problem_Name[i-s_len];s[i++]='.';s[i++]='m';s[i++]='d';s[i]='\0';
         cout<<"Algorigm: ";cin>>Algorithm;
-        Solution_Link = "/home/mestu/Documents/git/MyProgramming/blob/master/"+Judge_Name+"/"+Problem_Name+".md";
+        Solution_Link = "https://github.com/Mestu-Paul/MyProgramming/blob/master/"+Judge_Name+"/"+Problem_Name+".md";
         ///Create new file
         outdata.open(s);
         outdata<<"<h2> Algorithm: "<<Cut(Algorithm,'_',' ')<<"</h2>"<<endl;
@@ -49,8 +49,8 @@ int main()
         cout<<"Problem link: ";cin>>Problem_Link;
         cout<<"Judge Name: ";cin>>Judge_Name;
         cout<<"Algorigm: ";cin>>Algorithm;
+        Solution_Link = "https://github.com/Mestu-Paul/MyProgramming/blob/master/"+Judge_Name+"/"+Problem_Name+".md";
     }
-    Solution_Link = "/home/mestu/Documents/git/MyProgramming/blob/master/"+Judge_Name+"/"+Problem_Name+".md";
     cout<<"It is new judge for this algo (1/0): ";cin>>New;
 
 

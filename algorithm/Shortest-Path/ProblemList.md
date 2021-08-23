@@ -9,7 +9,7 @@
             </ul>
             <li>Problem: <a href="https://www.spoj.com/problems/RMQSQ/">RMQSQ-Range Minimum Query</a></li>
 			<ul>
-				<li>Solution: <a href="/home/mestu/Documents/git/MyProgramming/blob/master/Spoj/RMQSQ-Range Minimum Query.md">RMQSQ-Range Minimum Query</a></li>
+				<li>Solution: <a href="https://github.com/Mestu-Paul/MyProgramming/blob/master/Spoj/RMQSQ-Range Minimum Query.md">RMQSQ-Range Minimum Query</a></li>
 			</ul>
         </ol>
     </details>
