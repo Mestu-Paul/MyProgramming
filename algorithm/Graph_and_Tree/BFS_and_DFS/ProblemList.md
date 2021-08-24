@@ -11,6 +11,22 @@
 			<ul>
 				<li>Solution: <a href="https://github.com/Mestu-Paul/MyProgramming/blob/master/LightOj/1094_Farthest_Nodes_in_a_Tree.md">1094 Farthest Nodes in a Tree</a></li>
 			</ul>
+			<li>Problem: <a href="https://lightoj.com/problem/one-way-roads">1049 One Way Roads</a></li>
+            <ul>
+				<li>Solution: <a href="https:github.com/Mestu-Paul/MyProgramming/blob/master/LightOj/1049_One_Way_Roads.md">1049 One Way Roads</a></li>
+			</ul>
+			<li>Problem: <a href="https://lightoj.com/problem/gathering-food">1066 Gathering Food</a></li>
+            <ul>
+				<li>Solution: <a href="https:github.com/Mestu-Paul/MyProgramming/blob/master/LightOj/1066_Gathering_Food.md">1066 Gathering Food</a></li>
+			</ul>
+			<li>Problem: <a href="https://lightoj.com/problem/beehives">1437 Beehives </a> <b> Shortest path cycle</b></li>
+			<ul>
+				<li>Solution: <a href="https:github.com/Mestu-Paul/MyProgramming/blob/master/LightOj/1437_Beehives.md">1437 Beehives</a></li>
+			</ul>
+			<li>Problem: <a href="https://lightoj.com/problem/best-picnic-ever">1111 Best Picnic Ever</a></li>
+			<ul>
+				<li>Solution: <a href="https://github.com/Mestu-Paul/MyProgramming/blob/master/LightOj/1111_Best_Picnic_Ever.md">1111 Best Picnic Ever</a></li>
+			</ul>
 		</ol>
 	</details>
     	<details>
