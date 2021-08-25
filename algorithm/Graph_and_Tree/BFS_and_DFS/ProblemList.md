@@ -27,6 +27,11 @@
 			<ul>
 				<li>Solution: <a href="https://github.com/Mestu-Paul/MyProgramming/blob/master/LightOj/1111_Best_Picnic_Ever.md">1111 Best Picnic Ever</a></li>
 			</ul>
+			<li>Problem: <a href="https://lightoj.com/problem/mafia">1219 Mafia</a></li>
+			<ul>
+				<li>Solution: <a href="https://github.com/Mestu-Paul/MyProgramming/blob/master/LightOj/1219_Mafia.md">1219 Mafia</a></li>
+			</ul>
+
 		</ol>
 	</details>
     	<details>

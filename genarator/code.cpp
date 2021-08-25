@@ -13,7 +13,7 @@ string Cut(string s, char Current, char Replace){
 int main()
 {
    ofstream outdata;
-    char s[100]="/home/mestu/Documents/git/MyProgramming/";
+    char s[100]="/home/paul/Documents/programming/git/MyProgramming/";
     
     int solution=0;
     cout<<"For solution writing? (0/1): ";cin>>solution;
@@ -54,7 +54,7 @@ int main()
     cout<<"It is new judge for this algo (1/0): ";cin>>New;
 
 
-    outdata.open("/home/mestu/Documents/git/MyProgramming/genarator/output.txt");
+    outdata.open("/home/paul/Documents/programming/git/MyProgramming/genarator/output.txt");
     if(!outdata.is_open()){
         cout<<"sorry error"<<endl;
         return 0;
@@ -66,7 +66,7 @@ int main()
     }
     else{
         outdata<<"\t\t\t<li>Problem: <a href=\""<<Problem_Link<<"\">"<<Cut(Problem_Name,'_',' ')<<"</a></li>"<<endl;
-        outdata<<"\t\t\t<ul>\n\t\t\t\t<li>Solution: <a href=\""<<Solution_Link<<"></a>"<<Cut(Problem_Name,'_',' ')<<"</li>\n\t\t\t</ul>\n"<<endl;
+        outdata<<"\t\t\t<ul>\n\t\t\t\t<li>Solution: <a href=\""<<Solution_Link<<"\">"<<Cut(Problem_Name,'_',' ')<<"</a></li>\n\t\t\t</ul>\n"<<endl;
     }
     outdata.close();
     return 0;
