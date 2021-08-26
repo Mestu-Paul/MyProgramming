@@ -35,7 +35,7 @@ int main()
         ///Create new file
         outdata.open(s);
         outdata<<"<h2> Algorithm: "<<Cut(Algorithm,'_',' ')<<"</h2>"<<endl;
-        outdata<<"<h2> Problem: <a href=\""<<Problem_Link<<"\">"<<Cut(Problem_Name,'_',' ')<<"</a></li></h2>"<<endl;
+        outdata<<"<h2> Problem: <a href=\""<<Problem_Link<<"\">"<<Cut(Problem_Name,'_',' ')<<"</a></h2>"<<endl;
         outdata<<endl<<"```c++\n\n```"<<endl;
         //File Close
         outdata.close();
