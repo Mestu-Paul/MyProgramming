@@ -1,5 +1,5 @@
-			<li>Problem: <a href="https://lightoj.com/problem/jane-and-the-frost-giants">1175 Jane and the Frost Giants</a></li>
+			<li>Problem: <a href="https://lightoj.com/problem/power-puff-girls">1238 Power Puff Girls</a></li>
 			<ul>
-				<li>Solution: <a href="https://github.com/Mestu-Paul/MyProgramming/blob/master/LightOj/1175_Jane_and_the_Frost_Giants.md">1175 Jane and the Frost Giants</a></li>
+				<li>Solution: <a href="LightOj/1238_Power_Puff_Girls.md">1238 Power Puff Girls</a></li>
 			</ul>
 
