@@ -37,7 +37,11 @@
 			</ul>
 			<li>Problem: <a href="https://lightoj.com/problem/power-puff-girls">1238 Power Puff Girls</a></li>
 			<ul>
-				<li>Solution: <a href="LightOj/1238_Power_Puff_Girls.md">1238 Power Puff Girls</a></li>
+				<li>Solution: <a href="https://github.com/Mestu-Paul/MyProgramming/blob/master/LightOj/1238_Power_Puff_Girls.md">1238 Power Puff Girls</a></li>
+			</ul>
+			<li>Problem: <a href="https://lightoj.com/problem/the-crystal-maze">1337 The Crystal Maze</a></li>
+			<ul>
+				<li>Solution: <a href="https://github.com/Mestu-Paul/MyProgramming/blob/master/LightOj/1337_The_Crystal_Maze.md">1337 The Crystal Maze</a></li>
 			</ul>
 		</ol>
 	</details>

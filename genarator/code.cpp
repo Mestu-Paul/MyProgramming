@@ -32,7 +32,7 @@ int main()
         for(i=s_len; i<s_len+Problem_Name.size(); i++)s[i]=Problem_Name[i-s_len];s[i++]='.';s[i++]='m';s[i++]='d';s[i]='\0';
         cin.ignore();
         cout<<"Algorigm: ";getline(cin,Algorithm);
-        Solution_Link = Judge_Name+"/"+Problem_Name+".md";
+        Solution_Link = "https://github.com/Mestu-Paul/MyProgramming/blob/master/"+Judge_Name+"/"+Problem_Name+".md";
         ///Create new file
         outdata.open(s);
         outdata<<"<h2> Algorithm: "<<Cut(Algorithm,'_',' ')<<"</h2>"<<endl;
@@ -49,7 +49,7 @@ int main()
         for(int i=0; i<Problem_Name.size(); i++)if(Problem_Name[i]==' ')Problem_Name[i]='_';
         cout<<"Problem link: ";cin>>Problem_Link;
         cout<<"Judge Name: ";cin>>Judge_Name;
-        Solution_Link = Judge_Name+"/"+Problem_Name+".md";
+        Solution_Link = "https://github.com/Mestu-Paul/MyProgramming/blob/master/"+Judge_Name+"/"+Problem_Name+".md";
     }
     cout<<"It is new judge for this algo (1/0): ";cin>>New;
 
