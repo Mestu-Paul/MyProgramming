@@ -5,7 +5,7 @@
 		<ol>
 			<li>Problem: <a href="https://codeforces.com/contest/25/problem/E">Test</a></li>
 			<ul>
-				<li>Solution: <a href="https://github.com/Mestu-Paul/MyProgramming/blob/master/CodeForces/Test.md">Test</a></li>
+				<li>Solution: <a href="../../CodeForces/Test.md">Test</a></li>
 			</ul>
 		</ol>
 	</details>

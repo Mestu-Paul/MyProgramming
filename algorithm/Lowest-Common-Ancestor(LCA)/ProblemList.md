@@ -5,7 +5,7 @@
         <ol>
             <li>Problem: <a href="https://leetcode.com/problems/kth-ancestor-of-a-tree-node/">Kth Ancestor of a Tree Node</a></li>
             <ul>
-                <li>Solution: <a href="https://github.com/Mestu-Paul/MyProgramming/blob/master/LeetCode/Kth_Ancestor_of_a_Tree_Node.md">Kth Ancestor of a Tree Node</a></li>
+                <li>Solution: <a href="../../LeetCode/Kth_Ancestor_of_a_Tree_Node.md">Kth Ancestor of a Tree Node</a></li>
             </ul>
             <li>Problem: <a href="https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/">lowest common ancestor of a binary search tree</a></li>
             <li>Problem: <a href="https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree">Lowest Common Ancestor of a Binary Tree</a></li>
@@ -17,11 +17,11 @@
         <ol>
             <li>Problem: <a href="https://www.spoj.com/problems/ADAVISIT/">Ada and Plum</a></li>
             <ul>
-                <li>Solution: <a href="https://github.com/Mestu-Paul/MyProgramming/blob/master/Spoj/AdaAndPlum.md">Ada and Plum</a></li>
+                <li>Solution: <a href="../../Spoj/AdaAndPlum.md">Ada and Plum</a></li>
             </ul>
             <li>Problem: <a href="https://www.spoj.com/problems/LCASQ/">Lowest Common Ancestor</a></li>
             <ul>
-                <li>Solution: <a href="https://github.com/Mestu-Paul/MyProgramming/blob/master/Spoj/LowestCommonAncestor.md">Lowest Common Ancestor</a></li>
+                <li>Solution: <a href="../../Spoj/LowestCommonAncestor.md">Lowest Common Ancestor</a></li>
             </ul>
         </ol>
     </details>
@@ -44,11 +44,11 @@
         <ol>
             <li>Problem: <a href="https://lightoj.com/problem/greatest-parent">Greatest Parent</a></li>
             <ul>
-                <li>Solution: <a href="https://github.com/Mestu-Paul/MyProgramming/blob/master/LightOj/Greatest_Parent.md">Greatest Parent</a></li>
+                <li>Solution: <a href="../../LightOj/Greatest_Parent.md">Greatest Parent</a></li>
             </ul>
             <li>Problem: <a href="https://lightoj.com/problem/a-secret-mission">A Secret Mission</a></li>
             <ul>
-                <li>Solution: <a href="https://github.com/Mestu-Paul/MyProgramming/blob/master/LightOj/A_Secret_Mission.md">A Secret Mission</a></li>
+                <li>Solution: <a href="../../LightOj/A_Secret_Mission.md">A Secret Mission</a></li>
             </ul>
         </ol>
     </details>

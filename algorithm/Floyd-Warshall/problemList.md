@@ -42,7 +42,7 @@
                 <li> Problem: <a href="http://lightoj.com/volume_showproblem.php?problem=1086">Jogging Trails </a></li>
                 <li> Problem: <a href="http://lightoj.com/volume_showproblem.php?problem=1221">Travel Company </a></li>
                     <ul>
-                        <li>Solution: <a href="https://github.com/Mestu-Paul/myOwnCode/blob/main/LightOj/LOJ-1086-Jogging-Trails.md">Jogging Trails </a></li>
+                        <li>Solution: <a href="../../LightOj/LOJ-1086-Jogging-Trails.md">Jogging Trails </a></li>
                     </ul>
             </ol>
         </details>
@@ -53,23 +53,23 @@
             <ol>
                 <li> Problem: <a href="http://www.spoj.com/problems/INGRED/"> Ingredients</a></li>
                 <ul>
-                    <li>  Solution: <a href="https://github.com/Mestu-Paul/MyProgramming/blob/master/Spoj/INGRED%20-%20Ingredients.md"> Ingredients</a></li>
+                    <li>  Solution: <a href="../../Spoj/INGRED%20-%20Ingredients.md"> Ingredients</a></li>
                 </ul>
                 <li> Problem: <a href="http://www.spoj.com/problems/CHICAGO/"> 106 miles to Chicago</a></li>
                 <ul>
-                    <li>  Solution: <a href="https://github.com/Mestu-Paul/MyProgramming/blob/master/Spoj/CHICAGO-106_miles_to_Chicago.md">106 miles to Chicago </a>  <b>Using shortest-path</b></li>
+                    <li>  Solution: <a href="../../Spoj/CHICAGO-106_miles_to_Chicago.md">106 miles to Chicago </a>  <b>Using shortest-path</b></li>
                 </ul>
                 <li> Problem: <a href="http://www.spoj.com/problems/ARBITRAG/"> Arbitrage</a></li>
                 <ul>
-                    <li>  Solution: <a href="https://github.com/Mestu-Paul/MyProgramming/blob/master/Spoj/ARBITRAG%20-%20Arbitrage.md">Arbitrage </a></li>
+                    <li>  Solution: <a href="../../Spoj/ARBITRAG%20-%20Arbitrage.md">Arbitrage </a></li>
                 </ul>
                 <li> Problem: <a href="https://www.spoj.com/problems/SOCIALNE/">SOCIALNE - Possible Friends </a></li> 
                 <ul>
-                    <li>  Solution: <a href="https://github.com/Mestu-Paul/MyProgramming/blob/master/Spoj/SOCIALNE%20-%20Possible%20Friends.md"> SOCIALNE - Possible Friends</a></li>
+                    <li>  Solution: <a href="../../Spoj/SOCIALNE%20-%20Possible%20Friends.md"> SOCIALNE - Possible Friends</a></li>
                 </ul>
                 <li> Problem: <a href="http://www.spoj.com/problems/ROHAAN/"> Defend the Rohan</a></li>
                 <ul>
-                    <li>  Solution: <a href="https://github.com/Mestu-Paul/MyProgramming/blob/master/Spoj/ROHAAN%20-%20Defend%20The%20Rohan.md"> Defend the Rohan</a></li>
+                    <li>  Solution: <a href="../../Spoj/ROHAAN%20-%20Defend%20The%20Rohan.md"> Defend the Rohan</a></li>
                 </ul>
             </ol>
         </details>
@@ -80,7 +80,7 @@
             <ol>
                 <li> Problem: <a href="https://cses.fi/problemset/task/1672">Shortest Routes II </a></li>
                 <ul>
-                    <li>Solution: <a href="https://github.com/Mestu-Paul/myOwnCode/blob/main/CSES/Shortest%20Routes%20II.md">Shortest Routes II</a></li>
+                    <li>Solution: <a href="../../CSES/Shortest%20Routes%20II.md">Shortest Routes II</a></li>
                 </ul>
             </ol>
         </details>
