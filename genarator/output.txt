@@ -1,5 +1,0 @@
-			<li>Problem: <a href="BC">AB</a></li>
-			<ul>
-				<li>Solution: <a href="../LightOj/AB.md">AB</a></li>
-			</ul>
-
