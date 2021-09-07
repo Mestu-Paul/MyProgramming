@@ -12,7 +12,7 @@ string Cut(string s, char Current, char Replace){
 }
 int main()
 {
-   ofstream outdata;
+    ofstream outdata;
     char s[100]="/home/paul/Documents/programming/git/MyProgramming/";
     
     int solution=0;
