@@ -351,5 +351,28 @@ Here some problem different algorithm base and from different online judge which
 		<td>KMP LPS</td>
 		<td><a href="./CodeForces/Test.md">Test</a></td>
 	</tr>
+	<tr>
+		<td>Standard Template Library</td>
+		<td></td>
+		<td>STL name</td>
+	</tr>
+	<tr>
+		<td><a href="https://cses.fi/alon/task/1622/">Creating Strings</a></td>
+		<td>CSES</td>
+		<td>next_permutation</td>
+		<td>Not Solved</td>
+	</tr>
+	<tr>
+		<td><a href="https://lightoj.com/problem/discovering-permutations">1023 Discovering Permutations</a></td>
+		<td>Light OJ</td>
+		<td>next_permutation</td>
+		<td><a href="./LightOj/1023_Discovering_Permutations.md">1023 Discovering Permutations</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://www.spoj.com/problems/ONP/">ONP - Transform the Expression</a></td>
+		<td>SPOJ</td>
+		<td>stack</td>
+		<td>Not Solved</td>
+	</tr>
 </table>
 <b>You may enjoy by solving those problem or not.</b>
