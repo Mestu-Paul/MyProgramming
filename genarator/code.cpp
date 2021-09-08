@@ -18,6 +18,7 @@ int main()
     int solution=0;
     cout<<"For solution writing? (0/1): ";cin>>solution;
     string Problem_Link="",Judge_Name="",Algorithm="",Problem_Name="",Solution_Link="";
+    string Sub_Algorithm;
     int depth=0;
     bool First_part=1;
     if(solution){
@@ -31,12 +32,9 @@ int main()
         int s_len = strlen(s),i;
         for(i=s_len; i<s_len+Judge_Name.size(); i++)s[i]=Judge_Name[i-s_len];s[i++]='/';s_len+=Judge_Name.size()+1;
         for(i=s_len; i<s_len+Problem_Name.size(); i++)s[i]=Problem_Name[i-s_len];s[i++]='.';s[i++]='m';s[i++]='d';s[i]='\0';
-        cin.ignore();
-        cout<<"Algorigm: ";getline(cin,Algorithm);
-        cout<<"Depth of algorithm folder: ";cin>>depth;
-        string back = "";
-        while(depth--)back+="../";
-        Solution_Link = back+Judge_Name+"/"+Problem_Name+".md";
+        cin.ignore();cout<<"Algorigm: ";getline(cin,Algorithm);
+        cin.ignore();cout<<"Sub Algorithm: ";getline(cin,Sub_Algorithm);
+        Solution_Link = "./"+Judge_Name+"/"+Problem_Name+".md";
         ///Create new file
         outdata.open(s);
         outdata<<"<h2> Algorithm: "<<Cut(Algorithm,'_',' ')<<"</h2>"<<endl;
@@ -53,12 +51,10 @@ int main()
         for(int i=0; i<Problem_Name.size(); i++)if(Problem_Name[i]==' ')Problem_Name[i]='_';
         cout<<"Problem link: ";cin>>Problem_Link;
         cout<<"Judge Name: ";cin>>Judge_Name;
-        cout<<"Depth of algorithm folder: ";cin>>depth;
-        string back = "";
-        while(depth--)back+="../";
-        Solution_Link = back+Judge_Name+"/"+Problem_Name+".md";
+        cin.ignore();cout<<"Sub Algorithm: ";getline(cin,Sub_Algorithm);
+        Solution_Link = "./"+Judge_Name+"/"+Problem_Name+".md";
     }
-    cout<<"It is new judge for this algo (1/0): ";cin>>New;
+    cout<<"It is new algo (1/0): ";cin>>New;
 
 
     outdata.open("/home/paul/Documents/programming/git/MyProgramming/genarator/output.txt");
@@ -67,14 +63,13 @@ int main()
         return 0;
     }
     if(New){
-        outdata<<"\t<details>\n\t\t<summary>"<<Judge_Name<<"</summary>\n\t\t<ol>"<<endl;
-        outdata<<"\t\t\t<li>Problem: <a href=\""<<Problem_Link<<"\">"<<Cut(Problem_Name,'_',' ')<<"</a></li>"<<endl;
-        outdata<<"\t\t\t<ul>\n\t\t\t\t<li>Solution: <a href=\""<<Solution_Link<<"\">"<<Cut(Problem_Name,'_',' ')<<"</a></li>\n\t\t\t</ul>\n\t\t</ol>\n\t</details>"<<endl;
+        outdata<<"\t<tr>\n\t\t<td>"<<Algorithm<<"</td>\n\t</tr>\n";
     }
-    else{
-        outdata<<"\t\t\t<li>Problem: <a href=\""<<Problem_Link<<"\">"<<Cut(Problem_Name,'_',' ')<<"</a></li>"<<endl;
-        outdata<<"\t\t\t<ul>\n\t\t\t\t<li>Solution: <a href=\""<<Solution_Link<<"\">"<<Cut(Problem_Name,'_',' ')<<"</a></li>\n\t\t\t</ul>\n"<<endl;
-    }
+    outdata<<"\t<tr>\n\t\t<td><a href=\""<<Problem_Link<<"\">"<<Problem_Name<<"</a></td>\n";
+    outdata<<"\t\t<td>"<<Judge_Name<<"</td>\n";
+    outdata<<"\t\t<td>"<<Sub_Algorithm<<"</td>\n";
+    outdata<<"\t\t<td><a href=\""<<Solution_Link<<"\">"<<Problem_Name<<"</a></td>\n";
+    outdata<<"\t</tr>\n";
     outdata.close();
     return 0;
 }

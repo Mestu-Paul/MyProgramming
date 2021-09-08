@@ -82,6 +82,12 @@ Here some problem different algorithm base and from different online judge which
 		<td><a href="./LightOj/1013_Love_Calculator.md">1013 Love Calculator</a></td>
     </tr>
 	<tr>
+		<td><a href="https://lightoj.com/problem/brush-3">1017 Brush (III)</a></td>
+		<td>LightOj</td>
+		<td>DP</td>
+		<td><a href="./LightOj/1017_Brush_(III).md">1017 Brush (III)</a></td>
+	</tr>
+	<tr>
 		<td><b>Floyd Warshall</b></td>
 	</tr>
 	<tr>

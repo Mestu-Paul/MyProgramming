@@ -1,9 +1,0 @@
-	<details>
-		<summary>LightOj</summary>
-		<ol>
-			<li>Problem: <a href="https://lightoj.com/problem/love-calculator">1013 Love Calculator</a></li>
-			<ul>
-				<li>Solution: </li>
-			</ul>
-		</ol>
-	</details>
