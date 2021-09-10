@@ -1,0 +1,6 @@
+	<tr>
+		<td><a href="https://lightoj.com/problem/the-specials-menu">1025_The_Specials_Menu</a></td>
+		<td>LightOj</td>
+		<td>DP</td>
+		<td><a href="./LightOj/1025_The_Specials_Menu.md">1025_The_Specials_Menu</a></td>
+	</tr>
