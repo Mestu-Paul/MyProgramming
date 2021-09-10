@@ -94,7 +94,7 @@ Here some problem different algorithm base and from different online judge which
 		<td><a href="./LightOj/1025_The_Specials_Menu.md">1025_The_Specials_Menu</a></td>
 	</tr>
 	<tr>
-		<td><b>Floyd Warshall</b></td>
+		<td><b>Graph and Tree</b></td>
 	</tr>
 	<tr>
 		<td> <a href="https://vjudge.net/problem/UVA-821"> Page Hopping UVA - 821 </a></td>
@@ -259,9 +259,6 @@ Here some problem different algorithm base and from different online judge which
 		<td><a href="./Spoj/ROHAAN%20-%20Defend%20The%20Rohan.md"> Defend the Rohan</a></td>
 	</tr>
 	<tr>
-		<td>Graph and Tree</td>
-	</tr>
-	<tr>
 		<td><a href="https://www.spoj.com/problems/PARADOX/">PARADOX Paradox</a></td>
 		<td>SPOJ</td>
 		<td>BFS and DFS</td>
@@ -285,7 +282,7 @@ Here some problem different algorithm base and from different online judge which
 		<td>BFS and DFS</td>
 		<td><a href="./LightOj/1049_One_Way_Roads.md">1049 One Way Roads</a></td>
 	</tr>
-		<tr>
+	<tr>
 		<td><a href="https://lightoj.com/problem/gathering-food">1066 Gathering Food</a></td>
 		<td>Light OJ</td>
 		<td>BFS and DFS</td>
@@ -332,6 +329,12 @@ Here some problem different algorithm base and from different online judge which
 		<td>Light OJ</td>
 		<td>Diameter of Tree</td>
 		<td><a href="./LightOj/1094_Farthest_Nodes_in_a_Tree.md">1094 Farthest Nodes in a Tree</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://lightoj.com/problem/civil-and-evil-engineer">1029_Civil_and_Evil_Engineer</a></td>
+		<td>LightOj</td>
+		<td>DSU</td>
+		<td><a href="./LightOj/1029_Civil_and_Evil_Engineer.md">1029_Civil_and_Evil_Engineer</a></td>
 	</tr>
 	<tr>
 		<td>Interval</td>
