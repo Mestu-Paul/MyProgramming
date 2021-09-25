@@ -383,5 +383,20 @@ Here some problem different algorithm base and from different online judge which
 		<td>stack</td>
 		<td>Not Solved</td>
 	</tr>
+	<tr>
+		<td>Expected value</td>
+	</tr>
+	<tr>
+		<td><a href="https://lightoj.com/problem/discovering-gold">1030_Discovering_Gold</a></td>
+		<td>LightOj</td>
+		<td>Expected value</td>
+		<td><a href="./LightOj/1030_Discovering_Gold.md">1030_Discovering_Gold</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://lightoj.com/problem/a-dangerous-maze">1027_A_Dangerous_Maze</a></td>
+		<td>LightOj</td>
+		<td>Expected value</td>
+		<td><a href="./LightOj/1027_A_Dangerous_Maze.md">1027_A_Dangerous_Maze</a></td>
+	</tr>
 </table>
 <b>You may enjoy by solving those problem or not.</b>
