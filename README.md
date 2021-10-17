@@ -337,6 +337,12 @@ Here some problem different algorithm base and from different online judge which
 		<td><a href="./LightOj/1029_Civil_and_Evil_Engineer.md">1029_Civil_and_Evil_Engineer</a></td>
 	</tr>
 	<tr>
+		<td><a href="https://codeforces.com/problemset/problem/1600/J">Robot_Factory</a></td>
+		<td>CodeForces</td>
+		<td>DSU</td>
+		<td><a href="./CodeForces/Robot_Factory.md">Robot_Factory</a></td>
+	</tr>
+	<tr>
 		<td>Interval</td>
 	</tr>
 	<tr>

@@ -37,6 +37,10 @@ int main()
         Solution_Link = "./"+Judge_Name+"/"+Problem_Name+".md";
         ///Create new file
         outdata.open(s);
+        if(!outdata.is_open()){
+            cout<<"sorry error"<<endl;
+            return 0;
+        }
         outdata<<"<h2> Algorithm: "<<Cut(Algorithm,'_',' ')<<"</h2>"<<endl;
         outdata<<"<h2> Problem: <a href=\""<<Problem_Link<<"\">"<<Cut(Problem_Name,'_',' ')<<"</a></h2>"<<endl;
         outdata<<endl<<"```c++\n\n```"<<endl;
