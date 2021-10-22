@@ -100,6 +100,12 @@ Here some problem different algorithm base and from different online judge which
 		<td><a href="./LightOj/1025_The_Specials_Menu.md">1025_The_Specials_Menu</a></td>
 	</tr>
 	<tr>
+		<td><a href="https://lightoj.com/problem/pimp-my-ride">1119_Pimp_My_Ride</a></td>
+		<td>LightOj</td>
+		<td>DP</td>
+		<td><a href="./LightOj/1119_Pimp_My_Ride.md">1119_Pimp_My_Ride</a></td>
+	</tr>
+	<tr>
 		<td><b>Graph and Tree</b></td>
 	</tr>
 	<tr>
