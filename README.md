@@ -337,6 +337,12 @@ Here some problem different algorithm base and from different online judge which
 		<td><a href="./LightOj/1238_Power_Puff_Girls.md">1238 Power Puff Girls</a></td>
 	</tr>
 	<tr>
+		<td><a href="https://www.spoj.com/problems/AKBAR/">AKBAR_-_Akbar_,_The_great</a></td>
+		<td>Spoj</td>
+		<td>BFS</td>
+		<td><a href="./Spoj/AKBAR_-_Akbar_,_The_great.md">AKBAR_-_Akbar_,_The_great</a></td>
+	</tr>
+	<tr>
 		<td><a href="https://lightoj.com/problem/the-crystal-maze">1337 The Crystal Maze</a></td>
 		<td>Light OJ</td>
 		<td>BFS and DFS</td>
