@@ -31,6 +31,12 @@ Here some problem different algorithm base and from different online judge which
 		<td><a href="./LightOj/1102_Problem_Makes_Problem.md">1102 Problem Makes Problem</a></td>
 	</tr>
 	<tr>
+		<td><a href="https://lightoj.com/problem/helping-cicada">1117_Helping_Cicada</a></td>
+		<td>LightOj</td>
+		<td>Inclusion-exclusion</td>
+		<td><a href="./LightOj/1117_Helping_Cicada.md">1117_Helping_Cicada</a></td>
+	</tr>
+	<tr>
 		<td><b>Dynamic Programming</b></td>
 	</tr>
 	<tr>
