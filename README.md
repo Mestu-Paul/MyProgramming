@@ -106,6 +106,12 @@ Here some problem different algorithm base and from different online judge which
 		<td><a href="./LightOj/1119_Pimp_My_Ride.md">1119_Pimp_My_Ride</a></td>
 	</tr>
 	<tr>
+		<td><a href="https://lightoj.com/problem/divisible-group-sums">1125_Divisible_Group_Sums</a></td>
+		<td>LightOj</td>
+		<td>DP</td>
+		<td><a href="./LightOj/1125_Divisible_Group_Sums.md">1125_Divisible_Group_Sums</a></td>
+	</tr>
+	<tr>
 		<td><b>Graph and Tree</b></td>
 	</tr>
 	<tr>
