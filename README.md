@@ -84,9 +84,15 @@ Here some problem different algorithm base and from different online judge which
     </tr>
         <td><a href="https://lightoj.com/problem/love-calculator">1013 Love Calculator</a></td>
 		<td>Light OJ</td>
-		<td>Longest Common Subsequence</td>
+		<td>LCS</td>
 		<td><a href="./LightOj/1013_Love_Calculator.md">1013 Love Calculator</a></td>
     </tr>
+	<tr>
+		<td><a href="https://lightoj.com/problem/batman">1159_Batman</a></td>
+		<td>LightOj</td>
+		<td>LCS 3 string</td>
+		<td><a href="./LightOj/1159_Batman.md">1159_Batman</a></td>
+	</tr>
 	<tr>
 		<td><a href="https://lightoj.com/problem/brush-3">1017 Brush (III)</a></td>
 		<td>LightOj</td>
@@ -110,6 +116,12 @@ Here some problem different algorithm base and from different online judge which
 		<td>LightOj</td>
 		<td>DP</td>
 		<td><a href="./LightOj/1125_Divisible_Group_Sums.md">1125_Divisible_Group_Sums</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://lightoj.com/problem/how-many-zeroes">1140_How_Many_Zeroes?</a></td>
+		<td>LightOj</td>
+		<td>DP</td>
+		<td><a href="./LightOj/1140_How_Many_Zeroes?.md">1140_How_Many_Zeroes?</a></td>
 	</tr>
 	<tr>
 		<td><b>Graph and Tree</b></td>
