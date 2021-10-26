@@ -124,6 +124,12 @@ Here some problem different algorithm base and from different online judge which
 		<td><a href="./LightOj/1140_How_Many_Zeroes?.md">1140_How_Many_Zeroes?</a></td>
 	</tr>
 	<tr>
+		<td><a href="https://lightoj.com/problem/neighbor-house-ii">1217_Neighbor_House_(II)</a></td>
+		<td>LightOj</td>
+		<td>DP</td>
+		<td><a href="./LightOj/1217_Neighbor_House_(II).md">1217_Neighbor_House_(II)</a></td>
+	</tr>
+	<tr>
 		<td><b>Graph and Tree</b></td>
 	</tr>
 	<tr>
@@ -359,6 +365,12 @@ Here some problem different algorithm base and from different online judge which
 		<td>Light OJ</td>
 		<td>BFS and DFS</td>
 		<td><a href="./LightOj/1337_The_Crystal_Maze.md">1337 The Crystal Maze</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://lightoj.com/problem/a-perfect-murder">1201_A_Perfect_Murder</a></td>
+		<td>LightOj</td>
+		<td>dfs</td>
+		<td><a href="./LightOj/1201_A_Perfect_Murder.md">1201_A_Perfect_Murder</a></td>
 	</tr>
 	<tr>
 		<td><a href="https://lightoj.com/problem/farthest-nodes-in-a-tree">1094 Farthest Nodes in a Tree</a></td>
