@@ -373,6 +373,12 @@ Here some problem different algorithm base and from different online judge which
 		<td><a href="./LightOj/1201_A_Perfect_Murder.md">1201_A_Perfect_Murder</a></td>
 	</tr>
 	<tr>
+		<td><a href="https://vjudge.net/problem/UVA-336">336_A_Node_Too_Far_</a></td>
+		<td>UVA</td>
+		<td>bfs</td>
+		<td><a href="./UVA/336_A_Node_Too_Far_.md">336_A_Node_Too_Far_</a></td>
+	</tr>
+	<tr>
 		<td><a href="https://lightoj.com/problem/farthest-nodes-in-a-tree">1094 Farthest Nodes in a Tree</a></td>
 		<td>Light OJ</td>
 		<td>Diameter of Tree</td>
