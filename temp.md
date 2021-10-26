@@ -1,7 +1,7 @@
 <h1>LightOJ 1217 Neighbor House (II)</h1>
 
 <h3>Short description :</h3>
-We are given <b><i>N</i></b> houses to soap. And houses are placed in circular position. <br>
+We are given <b><i>N</i></b> houses to sell soap. And houses are placed in circular position. <br>
 <b>Condition to sell :</b> We can not select two Neighbor Houses to sell soap. <b>(1 and n are also Neighbor Houses)</b><br>
 <b>Target : </b> Sell largest number of soap.<br><hr>
 <h3>Solution Idea :</h3>
