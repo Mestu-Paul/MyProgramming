@@ -76,10 +76,28 @@ Here some problem different algorithm base and from different online judge which
 		<td><a href="./CSES/Missing_Coin_Sum.md">Missing Coin Sum</a></td>
 	</tr>
 	<tr>
+		<td><a href="https://lightoj.com/problem/coin-change-ii">1232_Coin_Change_(II)</a></td>
+		<td>LightOj</td>
+		<td>coin-change</td>
+		<td><a href="./LightOj/1232_Coin_Change_(II).md">1232_Coin_Change_(II)</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://lightoj.com/problem/anagram-division">1158_Anagram_Division</a></td>
+		<td>LightOj</td>
+		<td>combinatorics</td>
+		<td><a href="./LightOj/1158_Anagram_Division.md">1158_Anagram_Division</a></td>
+	</tr>
+	<tr>
 		<td><a href="https://www.spoj.com/problems/CPCRC1C/">CPCRC1C - Sum of Digits</a></td>
 		<td>SPOJ</td>
 		<td>Digit DP</td>
 		<td><a href="./Spoj/CPCRC1C-Sum_Of_Digits.md">CPCRC1C - Sum Of Digits</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://lightoj.com/problem/fast-bit-calculations">1032_Fast_Bit_Calculations</a></td>
+		<td>LightOj</td>
+		<td>Digit DP</td>
+		<td><a href="./LightOj/1032_Fast_Bit_Calculations.md">1032_Fast_Bit_Calculations</a></td>
 	</tr>
     </tr>
         <td><a href="https://lightoj.com/problem/love-calculator">1013 Love Calculator</a></td>
