@@ -313,6 +313,12 @@ Here some problem different algorithm base and from different online judge which
 		<td><a href="./Spoj/ROHAAN%20-%20Defend%20The%20Rohan.md"> Defend the Rohan</a></td>
 	</tr>
 	<tr>
+		<td><a href="https://www.spoj.com/problems/CCHESS/">CCHESS_COSTLY_CHESS</a></td>
+		<td>Spoj</td>
+		<td>BFS</td>
+		<td><a href="./Spoj/CCHESS_COSTLY_CHESS.md">CCHESS_COSTLY_CHESS</a></td>
+	</tr>
+	<tr>
 		<td><a href="https://www.spoj.com/problems/PARADOX/">PARADOX Paradox</a></td>
 		<td>SPOJ</td>
 		<td>BFS and DFS</td>
