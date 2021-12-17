@@ -445,6 +445,15 @@ Here some problem different algorithm base and from different online judge which
 		<td><a href="./Spoj/INTERVA2-Interval_Challenge.md">INTERVA2 - Interval Challenge</a></td>	
 	</tr>
 	<tr>
+		<td>Segment Tree</td>
+	</tr>
+	<tr>
+		<td><a href="https://lightoj.com/problem/horrible-queries">1164_Horrible_Queries</a></td>
+		<td>LightOj</td>
+		<td>Segment Tree</td>
+		<td><a href="./LightOj/1164_Horrible_Queries.md">1164_Horrible_Queries</a></td>
+	</tr>
+	<tr>
 		<td>String</td>
 	</tr>
 	<tr>
