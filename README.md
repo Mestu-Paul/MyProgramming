@@ -421,6 +421,15 @@ Here some problem different algorithm base and from different online judge which
 		<td><a href="./CodeForces/Robot_Factory.md">Robot_Factory</a></td>
 	</tr>
 	<tr>
+		<td>Number Theory</td>
+	</tr>
+	<tr>
+		<td><a href="https://lightoj.com/problem/bank-robbery">1163_Bank_Robbery</a></td>
+		<td>LightOj</td>
+		<td>Number Theory</td>
+		<td><a href="./LightOj/1163_Bank_Robbery.md">1163_Bank_Robbery</a></td>
+	</tr>
+	<tr>
 		<td>Interval</td>
 	</tr>
 	<tr>
