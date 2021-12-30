@@ -172,6 +172,12 @@ Here some problem different algorithm base and from different online judge which
 		<td><a href="./LightOj/1137_Expanding_Rods.md">1137_Expanding_Rods</a></td>
 	</tr>
 	<tr>
+		<td><a href="https://lightoj.com/problem/closest-distance">1146 Closest Distance</a></td>
+		<td>LightOj</td>
+		<td>geometry</td>
+		<td><a href="./LightOj/1146_Closest_Distance.md">1146 Closest Distance</a></td>
+	</tr>
+	<tr>
 		<td><b>Graph and Tree</b></td>
 	</tr>
 	<tr>
@@ -526,6 +532,15 @@ Here some problem different algorithm base and from different online judge which
 		<td>SPOJ</td>
 		<td>stack</td>
 		<td>Not Solved</td>
+	</tr>
+	<tr>
+		<td>Ternery Search</td>
+	</tr>
+	<tr>
+		<td><a href="https://lightoj.com/problem/closest-distance">1146 Closest Distance</a></td>
+		<td>LightOj</td>
+		<td>geometry</td>
+		<td><a href="./LightOj/1146_Closest_Distance.md">1146 Closest Distance</a></td>
 	</tr>
 </table>
 <b>You may enjoy by solving those problem or not.</b>
