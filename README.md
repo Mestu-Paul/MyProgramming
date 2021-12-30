@@ -148,6 +148,21 @@ Here some problem different algorithm base and from different online judge which
 		<td><a href="./LightOj/1217_Neighbor_House_(II).md">1217_Neighbor_House_(II)</a></td>
 	</tr>
 	<tr>
+		<td>Expected value</td>
+	</tr>
+	<tr>
+		<td><a href="https://lightoj.com/problem/discovering-gold">1030_Discovering_Gold</a></td>
+		<td>LightOj</td>
+		<td>Expected value</td>
+		<td><a href="./LightOj/1030_Discovering_Gold.md">1030_Discovering_Gold</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://lightoj.com/problem/a-dangerous-maze">1027_A_Dangerous_Maze</a></td>
+		<td>LightOj</td>
+		<td>Expected value</td>
+		<td><a href="./LightOj/1027_A_Dangerous_Maze.md">1027_A_Dangerous_Maze</a></td>
+	</tr>
+	<tr>
 		<td><b>Geometry</b></td>
 	</tr>
 	<tr>
@@ -475,6 +490,12 @@ Here some problem different algorithm base and from different online judge which
 		<td><a href="./LightOj/1183_Computing_Fast_Average.md">1183_Computing_Fast_Average</a></td>
 	</tr>
 	<tr>
+		<td><a href="https://lightoj.com/problem/fast-queries">1188 Fast Queries</a></td>
+		<td>LightOj</td>
+		<td>offline</td>
+		<td><a href="./LightOj/1188_Fast_Queries.md">1188 Fast Queries</a></td>
+	</tr>
+	<tr>
 		<td>String</td>
 	</tr>
 	<tr>
@@ -505,21 +526,6 @@ Here some problem different algorithm base and from different online judge which
 		<td>SPOJ</td>
 		<td>stack</td>
 		<td>Not Solved</td>
-	</tr>
-	<tr>
-		<td>Expected value</td>
-	</tr>
-	<tr>
-		<td><a href="https://lightoj.com/problem/discovering-gold">1030_Discovering_Gold</a></td>
-		<td>LightOj</td>
-		<td>Expected value</td>
-		<td><a href="./LightOj/1030_Discovering_Gold.md">1030_Discovering_Gold</a></td>
-	</tr>
-	<tr>
-		<td><a href="https://lightoj.com/problem/a-dangerous-maze">1027_A_Dangerous_Maze</a></td>
-		<td>LightOj</td>
-		<td>Expected value</td>
-		<td><a href="./LightOj/1027_A_Dangerous_Maze.md">1027_A_Dangerous_Maze</a></td>
 	</tr>
 </table>
 <b>You may enjoy by solving those problem or not.</b>

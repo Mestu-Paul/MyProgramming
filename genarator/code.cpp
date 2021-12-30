@@ -67,12 +67,12 @@ int main()
         return 0;
     }
     if(New){
-        outdata<<"\t<tr>\n\t\t<td>"<<Algorithm<<"</td>\n\t</tr>\n";
+        outdata<<"\t<tr>\n\t\t<td>"<<Cut(Algorithm,'_',' ')<<"</td>\n\t</tr>\n";
     }
-    outdata<<"\t<tr>\n\t\t<td><a href=\""<<Problem_Link<<"\">"<<Problem_Name<<"</a></td>\n";
+    outdata<<"\t<tr>\n\t\t<td><a href=\""<<Problem_Link<<"\">"<<Cut(Problem_Name,'_',' ')<<"</a></td>\n";
     outdata<<"\t\t<td>"<<Judge_Name<<"</td>\n";
-    outdata<<"\t\t<td>"<<Sub_Algorithm<<"</td>\n";
-    outdata<<"\t\t<td><a href=\""<<Solution_Link<<"\">"<<Problem_Name<<"</a></td>\n";
+    outdata<<"\t\t<td>"<<Cut(Sub_Algorithm,'_',' ')<<"</td>\n";
+    outdata<<"\t\t<td><a href=\""<<Solution_Link<<"\">"<<Cut(Problem_Name,'_',' ')<<"</a></td>\n";
     outdata<<"\t</tr>\n";
     outdata.close();
     return 0;
