@@ -148,6 +148,15 @@ Here some problem different algorithm base and from different online judge which
 		<td><a href="./LightOj/1217_Neighbor_House_(II).md">1217_Neighbor_House_(II)</a></td>
 	</tr>
 	<tr>
+		<td><b>Geometry</b></td>
+	</tr>
+	<tr>
+		<td><a href="https://lightoj.com/problem/expanding-rods">1137_Expanding_Rods</a></td>
+		<td>LightOj</td>
+		<td>Geometry</td>
+		<td><a href="./LightOj/1137_Expanding_Rods.md">1137_Expanding_Rods</a></td>
+	</tr>
+	<tr>
 		<td><b>Graph and Tree</b></td>
 	</tr>
 	<tr>
@@ -452,6 +461,18 @@ Here some problem different algorithm base and from different online judge which
 		<td>LightOj</td>
 		<td>Segment Tree</td>
 		<td><a href="./LightOj/1164_Horrible_Queries.md">1164_Horrible_Queries</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://lightoj.com/problem/array-queries">1082_Array_Queries</a></td>
+		<td>LightOj</td>
+		<td>segment tree</td>
+		<td><a href="./LightOj/1082_Array_Queries.md">1082_Array_Queries</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://lightoj.com/problem/computing-fast-average">1183_Computing_Fast_Average</a></td>
+		<td>LightOj</td>
+		<td>Segment tree</td>
+		<td><a href="./LightOj/1183_Computing_Fast_Average.md">1183_Computing_Fast_Average</a></td>
 	</tr>
 	<tr>
 		<td>String</td>
