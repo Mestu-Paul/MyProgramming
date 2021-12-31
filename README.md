@@ -148,6 +148,12 @@ Here some problem different algorithm base and from different online judge which
 		<td><a href="./LightOj/1217_Neighbor_House_(II).md">1217_Neighbor_House_(II)</a></td>
 	</tr>
 	<tr>
+		<td><a href="https://lightoj.com/problem/brush-4">1018 Brush (IV)</a></td>
+		<td>LightOj</td>
+		<td>Bitmask</td>
+		<td><a href="./LightOj/1018_Brush_(IV).md">1018 Brush (IV)</a></td>
+	</tr>
+	<tr>
 		<td>Expected value</td>
 	</tr>
 	<tr>
