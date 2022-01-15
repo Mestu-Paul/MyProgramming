@@ -472,6 +472,12 @@ Here some problem different algorithm base and from different online judge which
 		<td><a href="./LightOj/1163_Bank_Robbery.md">1163_Bank_Robbery</a></td>
 	</tr>
 	<tr>
+		<td><a href="https://toph.co/p/bi-element-subsequence">Bi-Element Subsequence</a></td>
+		<td>Toph</td>
+		<td>Prefix Sum</td>
+		<td><a href="./Toph/Bi-Element_Subsequence.md">Bi-Element Subsequence</a></td>
+	</tr>
+	<tr>
 		<td>Interval</td>
 	</tr>
 	<tr>
