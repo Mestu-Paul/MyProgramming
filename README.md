@@ -154,6 +154,12 @@ Here some problem different algorithm base and from different online judge which
 		<td><a href="./LightOj/1018_Brush_(IV).md">1018 Brush (IV)</a></td>
 	</tr>
 	<tr>
+		<td><a href="https://toph.co/p/beautiful-subsequence">Naughty Subsequence - V2.0</a></td>
+		<td>Toph</td>
+		<td>Longest Increasing  Subsequence</td>
+		<td><a href="./Toph/Naughty_Subsequence_-_V2.0.md">Naughty Subsequence - V2.0</a></td>
+	</tr>
+	<tr>
 		<td>Expected value</td>
 	</tr>
 	<tr>
@@ -443,6 +449,12 @@ Here some problem different algorithm base and from different online judge which
 		<td>Atcoder</td>
 		<td>Basic</td>
 		<td><a href="./Atcoder/Even_Relation.md">Even Relation</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://toph.co/p/covid-19-outbreak">COVID-19 Outbreak</a></td>
+		<td>Toph</td>
+		<td>DFS Basic</td>
+		<td><a href="./Toph/COVID-19_Outbreak.md">COVID-19 Outbreak</a></td>
 	</tr>
 	<tr>
 		<td><a href="https://lightoj.com/problem/farthest-nodes-in-a-tree">1094 Farthest Nodes in a Tree</a></td>
