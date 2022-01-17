@@ -475,6 +475,12 @@ Here some problem different algorithm base and from different online judge which
 		<td><a href="./CodeForces/Robot_Factory.md">Robot_Factory</a></td>
 	</tr>
 	<tr>
+		<td><a href="https://toph.co/p/hashing">Hashing</a></td>
+		<td>Toph</td>
+		<td>DSU    XOR</td>
+		<td><a href="./Toph/Hashing.md">Hashing</a></td>
+	</tr>
+	<tr>
 		<td>Number Theory</td>
 	</tr>
 	<tr>
@@ -530,6 +536,12 @@ Here some problem different algorithm base and from different online judge which
 		<td>LightOj</td>
 		<td>offline</td>
 		<td><a href="./LightOj/1188_Fast_Queries.md">1188 Fast Queries</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://toph.co/p/nothing-is-absolute-everything-is-relative">Nothing Is Absolute, Everything Is Relative!</a></td>
+		<td>Toph</td>
+		<td>Basic</td>
+		<td><a href="./Toph/Nothing_Is_Absolute,_Everything_Is_Relative!.md">Nothing Is Absolute, Everything Is Relative!</a></td>
 	</tr>
 	<tr>
 		<td>String</td>
