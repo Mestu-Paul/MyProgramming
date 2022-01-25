@@ -403,6 +403,12 @@ Here some problem different algorithm base and from different online judge which
 		<td><a href="./LightOj/1111_Best_Picnic_Ever.md">1111 Best Picnic Ever</a></td>
 	</tr>
 	<tr>
+		<td><a href="https://lightoj.com/problem/escape">1185 Escape</a></td>
+		<td>LightOj</td>
+		<td>bfs basic lv 2</td>
+		<td><a href="./LightOj/1185_Escape.md">1185 Escape</a></td>
+	</tr>
+	<tr>
 		<td><a href="https://lightoj.com/problem/mafia">1219 Mafia</a></td>
 		<td>Light OJ</td>
 		<td>BFS and DFS</td>
