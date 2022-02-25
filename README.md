@@ -373,6 +373,12 @@ Here some problem different algorithm base and from different online judge which
 		<td><a href="./LightOj/1012_Guilty_Prince.md">1012 Guilty Prince</a></td>
 	</tr>
 	<tr>
+		<td><a href="https://lightoj.com/problem/hit-the-light-switches">1034 Hit the Light Switches</a></td>
+		<td>LightOj</td>
+		<td>bfs dfs</td>
+		<td><a href="./LightOj/1034_Hit_the_Light_Switches.md">1034 Hit the Light Switches</a></td>
+	</tr>
+	<tr>
 		<td><a href="https://lightoj.com/problem/farthest-nodes-in-a-tree">1094 Farthest Nodes in a Tree</a></td>
 		<td>Light OJ</td>
 		<td>BFS and DFS</td>
