@@ -52,6 +52,12 @@ Here some problem different algorithm base and from different online judge which
 		<td><a href="./LightOj/1037_Agent_47.md">1037 Agent 47</a></td>
 	</tr>
 	<tr>
+		<td><a href="https://toph.co/p/reverse-hash">Reverse Hash</a></td>
+		<td>Toph</td>
+		<td>DP</td>
+		<td><a href="./Toph/Reverse_Hash.md">Reverse Hash</a></td>
+	</tr>
+	<tr>
 		<td><a href="https://lightoj.com/problem/marriage-ceremonies">1011 Marriage Ceremonies</a></td>
 		<td>Light OJ</td>
 		<td>Bitmask</td>
