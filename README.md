@@ -46,6 +46,12 @@ Here some problem different algorithm base and from different online judge which
 		<td><a href="./LightOj/Painfull_Bases.md">Painfull Bases</a></td>
 	</tr>
 	<tr>
+		<td><a href="https://lightoj.com/problem/agent-47">1037 Agent 47</a></td>
+		<td>LightOj</td>
+		<td>dp bitmask</td>
+		<td><a href="./LightOj/1037_Agent_47.md">1037 Agent 47</a></td>
+	</tr>
+	<tr>
 		<td><a href="https://lightoj.com/problem/marriage-ceremonies">1011 Marriage Ceremonies</a></td>
 		<td>Light OJ</td>
 		<td>Bitmask</td>
