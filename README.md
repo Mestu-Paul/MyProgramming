@@ -528,7 +528,6 @@ Here some problem different algorithm base and from different online judge which
 		<td>none</td>
 		<td><a href="./Toph/Ice-Cream_of_Montu_Mia_Again!.md">Ice-Cream of Montu Mia Again!</a></td>
 	</tr>
-
 	<tr>
 		<td>Interval</td>
 	</tr>
