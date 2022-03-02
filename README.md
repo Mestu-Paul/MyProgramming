@@ -508,6 +508,12 @@ Here some problem different algorithm base and from different online judge which
 		<td>Number Theory</td>
 	</tr>
 	<tr>
+		<td><a href="https://toph.co/p/kitorp-and-his-love">Kitorp and His Love</a></td>
+		<td>Toph</td>
+		<td>Trailling Zero</td>
+		<td><a href="./Toph/Kitorp_and_His_Love.md">Kitorp and His Love</a></td>
+	</tr>
+	<tr>
 		<td><a href="https://lightoj.com/problem/bank-robbery">1163_Bank_Robbery</a></td>
 		<td>LightOj</td>
 		<td>Number Theory</td>
