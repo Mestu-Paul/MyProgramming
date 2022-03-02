@@ -3,7 +3,6 @@
 Here some problem different algorithm base and from different online judge which are collected my learing time
 </br>
 </br>
-<h3>Binary Search algorithm base problem</h3>
 
 <table>
 	<tr>
@@ -14,6 +13,18 @@ Here some problem different algorithm base and from different online judge which
 	</tr>
 	<tr>
 		<td><b>Binary Search</b></td>
+	</tr>
+	<tr>
+		<td><a href="https://toph.co/p/kitorp-and-his-love">Kitorp and His Love</a></td>
+		<td>Toph</td>
+		<td>NT,Trailling Zero</td>
+		<td><a href="./Toph/Kitorp_and_His_Love.md">Kitorp and His Love</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://toph.co/p/min-value">Min Value</a></td>
+		<td>Toph</td>
+		<td>none</td>
+		<td><a href="./Toph/Min_Value.md">Min Value</a></td>
 	</tr>
 	<tr>
 		<td><a href="https://lightoj.com/problem/crossed-ladders">1062 Crossed Ladders</a></td>
