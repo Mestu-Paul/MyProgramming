@@ -520,6 +520,16 @@ Here some problem different algorithm base and from different online judge which
 		<td><a href="./Toph/Bi-Element_Subsequence.md">Bi-Element Subsequence</a></td>
 	</tr>
 	<tr>
+		<td>Implementation</td>
+	</tr>
+	<tr>
+		<td><a href="https://toph.co/p/ice-cream-of-montu-mia-again">Ice-Cream of Montu Mia Again!</a></td>
+		<td>Toph</td>
+		<td>none</td>
+		<td><a href="./Toph/Ice-Cream_of_Montu_Mia_Again!.md">Ice-Cream of Montu Mia Again!</a></td>
+	</tr>
+
+	<tr>
 		<td>Interval</td>
 	</tr>
 	<tr>
