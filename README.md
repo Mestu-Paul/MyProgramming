@@ -48,6 +48,15 @@ Here some problem different algorithm base and from different online judge which
 		<td><a href="./LightOj/1117_Helping_Cicada.md">1117_Helping_Cicada</a></td>
 	</tr>
 	<tr>
+		<td>Divide and Conquer</td>
+	</tr>
+	<tr>
+		<td><a href="https://toph.co/p/tree-queries">Tree Queries</a></td>
+		<td>Toph</td>
+		<td>Merge Sort tree basic</td>
+		<td><a href="./Toph/Tree_Queries.md">Tree Queries</a></td>
+	</tr>
+	<tr>
 		<td><b>Dynamic Programming</b></td>
 	</tr>
 	<tr>
