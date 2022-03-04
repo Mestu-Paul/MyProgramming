@@ -57,6 +57,19 @@ Here some problem different algorithm base and from different online judge which
 		<td><a href="./Toph/Tree_Queries.md">Tree Queries</a></td>
 	</tr>
 	<tr>
+		<td><a href="https://www.hackerrank.com/challenges/coloring-tree/problem">Coloring Tree</a></td>
+		<td>Toph</td>
+		<td>Merge sort tree</td>
+		<td>Not solved Yet</td>
+	</tr>
+	<tr>
+		<td><a href="https://codeforces.com/problemset/problem/893/F">Subtree Minimum Query</a></td>
+		<td>CodeForces</td>
+		<td>Merge Sort Tree</td>
+		<td>Not Solved Yet</td>
+	</tr>
+
+	<tr>
 		<td><b>Dynamic Programming</b></td>
 	</tr>
 	<tr>
