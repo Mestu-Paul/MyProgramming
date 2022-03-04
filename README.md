@@ -68,7 +68,6 @@ Here some problem different algorithm base and from different online judge which
 		<td>Merge Sort Tree</td>
 		<td>Not Solved Yet</td>
 	</tr>
-
 	<tr>
 		<td><b>Dynamic Programming</b></td>
 	</tr>
