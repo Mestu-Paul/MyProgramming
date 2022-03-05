@@ -12,7 +12,7 @@ Here some problem different algorithm base and from different online judge which
 		<td>Solution</td>
 	</tr>
 	<tr>
-		<td colspan="4" rowspan="2" align="center"><b>Binary Search</b></td>
+		<td colspan="4" align="center"><b>Binary Search</b></td>
 	</tr>
 	<tr>
 		<td><a href="https://toph.co/p/kitorp-and-his-love">Kitorp and His Love</a></td>
