@@ -51,6 +51,12 @@ Here some problem different algorithm base and from different online judge which
 		<td colspan="4" align="center"><b>Divide and Conquer</b></td>
 	</tr>
 	<tr>
+		<td><a href="https://www.spoj.com/problems/KQUERY/">KQUERY - K-query</a></td>
+		<td>Spoj</td>
+		<td>Merge Sort and Seg tree</td>
+		<td><a href="./Spoj/KQUERY_-_K-query.md">KQUERY - K-query</a></td>
+	</tr>
+	<tr>
 		<td><a href="https://www.hackerrank.com/challenges/coloring-tree/problem">Coloring Tree</a></td>
 		<td>Hackerrank</td>
 		<td>Merge sort tree</td>
