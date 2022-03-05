@@ -537,7 +537,7 @@ Here some problem different algorithm base and from different online judge which
 		<td><a href="./Toph/Hashing.md">Hashing</a></td>
 	</tr>
 	<tr>
-		<td>Number Theory</td>
+		<td colspan="4" align="center"><b>Number Theory</b> </td>
 	</tr>
 	<tr>
 		<td><a href="https://toph.co/p/kitorp-and-his-love">Kitorp and His Love</a></td>
@@ -558,7 +558,7 @@ Here some problem different algorithm base and from different online judge which
 		<td><a href="./Toph/Bi-Element_Subsequence.md">Bi-Element Subsequence</a></td>
 	</tr>
 	<tr>
-		<td>Implementation</td>
+		<td colspan="4" align="center"><b>Implementation</b></td>
 	</tr>
 	<tr>
 		<td><a href="https://toph.co/p/ice-cream-of-montu-mia-again">Ice-Cream of Montu Mia Again!</a></td>
@@ -567,7 +567,7 @@ Here some problem different algorithm base and from different online judge which
 		<td><a href="./Toph/Ice-Cream_of_Montu_Mia_Again!.md">Ice-Cream of Montu Mia Again!</a></td>
 	</tr>
 	<tr>
-		<td>Interval</td>
+		<td colspan="4" align="center"><b>Interval</b></td>
 	</tr>
 	<tr>
 		<td><a href="https://cses.fi/alon/task/1629">Movie Festival</a></td>
@@ -582,7 +582,7 @@ Here some problem different algorithm base and from different online judge which
 		<td><a href="./Spoj/INTERVA2-Interval_Challenge.md">INTERVA2 - Interval Challenge</a></td>	
 	</tr>
 	<tr>
-		<td>Segment Tree</td>
+		<td colspan="4" align="center"><b>Segment Tree<b></td>
 	</tr>
 	<tr>
 		<td><a href="https://lightoj.com/problem/horrible-queries">1164_Horrible_Queries</a></td>
@@ -615,7 +615,7 @@ Here some problem different algorithm base and from different online judge which
 		<td><a href="./Toph/Nothing_Is_Absolute,_Everything_Is_Relative!.md">Nothing Is Absolute, Everything Is Relative!</a></td>
 	</tr>
 	<tr>
-		<td>String</td>
+		<td colspan="4" align="center"><b>String</b></td>
 	</tr>
 	<tr>
 		<td><a href="https://codeforces.com/contest/25/problem/E">Test</a></td>
@@ -624,7 +624,7 @@ Here some problem different algorithm base and from different online judge which
 		<td><a href="./CodeForces/Test.md">Test</a></td>
 	</tr>
 	<tr>
-		<td>Standard Template Library</td>
+		<td colspan="4" align="center"><b>Standard Template Library</b></td>
 		<td></td>
 		<td>STL name</td>
 	</tr>
@@ -647,7 +647,7 @@ Here some problem different algorithm base and from different online judge which
 		<td>Not Solved</td>
 	</tr>
 	<tr>
-		<td>Ternery Search</td>
+		<td colspan="4" align="center"><b>Ternery Search</b></td>
 	</tr>
 	<tr>
 		<td><a href="https://lightoj.com/problem/closest-distance">1146 Closest Distance</a></td>
