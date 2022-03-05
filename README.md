@@ -51,6 +51,12 @@ Here some problem different algorithm base and from different online judge which
 		<td>Divide and Conquer</td>
 	</tr>
 	<tr>
+		<td><a href="https://www.hackerrank.com/challenges/coloring-tree/problem">Coloring Tree</a></td>
+		<td>Hackerrank</td>
+		<td>Merge sort tree</td>
+		<td><a href="./Hackerrank/Coloring_Tree.md">Coloring Tree</a></td>
+	</tr>
+	<tr>
 		<td><a href="https://toph.co/p/tree-queries">Tree Queries</a></td>
 		<td>Toph</td>
 		<td>Merge Sort tree basic</td>
@@ -68,7 +74,6 @@ Here some problem different algorithm base and from different online judge which
 		<td>Merge Sort Tree</td>
 		<td>Not Solved Yet</td>
 	</tr>
-
 	<tr>
 		<td><b>Dynamic Programming</b></td>
 	</tr>
