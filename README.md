@@ -12,7 +12,7 @@ Here some problem different algorithm base and from different online judge which
 		<td>Solution</td>
 	</tr>
 	<tr>
-		<td colspan="4" style="text-align:center;"><b>Binary Search</b></td>
+		<td colspan="4" align="center"><b>Binary Search</b></td>
 	</tr>
 	<tr>
 		<td><a href="https://toph.co/p/kitorp-and-his-love">Kitorp and His Love</a></td>
@@ -33,7 +33,7 @@ Here some problem different algorithm base and from different online judge which
 		<td><a href="./LightOj/1062_Crossed_Ladders.md">1062 Crossed Ladders</a></td>
 	</tr>
 	<tr>
-		<td colspan="4" style="text-align:center;"><b>Combinatorics</b></td>
+		<td colspan="4" align="center"><b>Combinatorics</b></td>
 	</tr>
 	<tr>
 		<td><a href="https://lightoj.com/problem/problem-makes-problem">1102 Problem Makes Problem</a></td>
@@ -48,7 +48,7 @@ Here some problem different algorithm base and from different online judge which
 		<td><a href="./LightOj/1117_Helping_Cicada.md">1117_Helping_Cicada</a></td>
 	</tr>
 	<tr>
-		<td colspan="4" style="text-align:center;"><b>Divide and Conquer</b></td>
+		<td colspan="4" align="center"><b>Divide and Conquer</b></td>
 	</tr>
 	<tr>
 		<td><a href="https://www.hackerrank.com/challenges/coloring-tree/problem">Coloring Tree</a></td>
@@ -69,7 +69,7 @@ Here some problem different algorithm base and from different online judge which
 		<td>Not Solved Yet</td>
 	</tr>
 	<tr>
-		<td colspan="4" style="text-align:center;"><b>Dynamic Programming</b></td>
+		<td colspan="4" align="center"><b>Dynamic Programming</b></td>
 	</tr>
 	<tr>
 		<td><a href="https://lightoj.com/problem/painful-bases">Painfull Bases</a></td>
@@ -219,7 +219,7 @@ Here some problem different algorithm base and from different online judge which
 		<td><a href="./LightOj/1027_A_Dangerous_Maze.md">1027_A_Dangerous_Maze</a></td>
 	</tr>
 	<tr>
-		<td colspan="4" style="text-align:center;"><b>Geometry</b></td>
+		<td colspan="4" align="center"><b>Geometry</b></td>
 	</tr>
 	<tr>
 		<td><a href="https://lightoj.com/problem/expanding-rods">1137_Expanding_Rods</a></td>
@@ -234,7 +234,7 @@ Here some problem different algorithm base and from different online judge which
 		<td><a href="./LightOj/1146_Closest_Distance.md">1146 Closest Distance</a></td>
 	</tr>
 	<tr>
-		<td colspan="4" style="text-align:center;"><b>Graph and Tree</b></td>
+		<td colspan="4" align="center"><b>Graph and Tree</b></td>
 	</tr>
 	<tr>
 		<td> <a href="https://vjudge.net/problem/UVA-821"> Page Hopping UVA - 821 </a></td>
