@@ -15,6 +15,12 @@ Here some problem different algorithm base and from different online judge which
 		<td colspan="4" align="center"><b>Binary Search</b></td>
 	</tr>
 	<tr>
+		<td><a href="https://lightoj.com/problem/counting-triangles">1307 Counting Triangles</a></td>
+		<td>LightOj</td>
+		<td>Binary Search</td>
+		<td><a href="./LightOj/1307_Counting_Triangles.md">1307 Counting Triangles</a></td>
+	</tr>
+	<tr>
 		<td><a href="https://toph.co/p/kitorp-and-his-love">Kitorp and His Love</a></td>
 		<td>Toph</td>
 		<td>NT,Trailling Zero</td>
@@ -541,6 +547,15 @@ Here some problem different algorithm base and from different online judge which
 		<td>Toph</td>
 		<td>DSU    XOR</td>
 		<td><a href="./Toph/Hashing.md">Hashing</a></td>
+	</tr>
+	<tr>
+		<td>Greedy</td>
+	</tr>
+	<tr>
+		<td><a href="https://www.codechef.com/LRNDSA02/problems/ZCO15004">ZCO15004 Rectangle</a></td>
+		<td>Codechef</td>
+		<td>STL - stack</td>
+		<td><a href="./Codechef/ZCO15004_Rectangle.md">ZCO15004 Rectangle</a></td>
 	</tr>
 	<tr>
 		<td colspan="4" align="center"><b>Number Theory</b> </td>
