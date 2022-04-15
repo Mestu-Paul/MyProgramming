@@ -13,7 +13,7 @@ string Cut(string s, char Current, char Replace){
 int main()
 {
     ofstream outdata;
-    char s[100]="/home/paul/Documents/programming/git/MyProgramming/";
+    char s[100]="G:\kali\documents\programming\git\MyProgramming";
     
     int solution=0;
     cout<<"For solution writing? (0/1): ";cin>>solution;

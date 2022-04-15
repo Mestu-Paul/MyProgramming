@@ -549,6 +549,12 @@ Here some problem different algorithm base and from different online judge which
 		<td><a href="./Toph/Hashing.md">Hashing</a></td>
 	</tr>
 	<tr>
+		<td><a href="https://toph.co/p/static-tree">Static Tree</a></td>
+		<td>Light OJ</td>
+		<td>Lowest common ancestor</td>
+		<td><a href="./Toph/Static_tree.md">Static Tree</a></td>
+	</tr>
+	<tr>
 		<td>Greedy</td>
 	</tr>
 	<tr>
