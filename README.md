@@ -54,6 +54,15 @@ Here some problem different algorithm base and from different online judge which
 		<td><a href="./LightOj/1117_Helping_Cicada.md">1117_Helping_Cicada</a></td>
 	</tr>
 	<tr>
+		<td colspan="4" align="center"><b>Data Structures</b></td>
+	</tr>
+	<tr>
+		<td><a href="https://www.spoj.com/problems/SUBXOR/">SubXor</a></td>
+		<td>Spoj</td>
+		<td>Trie , XOR</td>
+		<td><a href="./Spoj/SubXor.md">SubXor</a></td>
+	</tr>
+	<tr>
 		<td colspan="4" align="center"><b>Divide and Conquer</b></td>
 	</tr>
 	<tr>
@@ -610,6 +619,12 @@ Here some problem different algorithm base and from different online judge which
 	</tr>
 	<tr>
 		<td colspan="4" align="center"><b>Segment Tree<b></td>
+	</tr>
+	<tr>
+		<td><a href="https://www.spoj.com/problems/GSS3/">GSS3 - Can you answer these queries III</a>
+		<td>Spoj</td>
+		<td>Segment Tree</td>
+		<td><a href="./Spoj/GSS3_Can_you_answer_these_queries_III.md">1164_Horrible_Queries</a></td>
 	</tr>
 	<tr>
 		<td><a href="https://lightoj.com/problem/horrible-queries">1164_Horrible_Queries</a></td>
