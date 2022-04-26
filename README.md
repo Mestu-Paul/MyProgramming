@@ -576,6 +576,12 @@ Here some problem different algorithm base and from different online judge which
 		<td colspan="4" align="center"><b>Number Theory</b> </td>
 	</tr>
 	<tr>
+		<td><a href="https://www.spoj.com/problems/HS08PAUL/">HS08PAUL - A conjecture of Paul Erdős</a></td>
+		<td>Spoj</td>
+		<td>Trailling Zero</td>
+		<td><a href="./Spoj/HS08PAUL_A_conjecture_of_Paul_Erdős.md">HS08PAUL - A conjecture of Paul Erdős</a></td>
+	</tr>
+	<tr>
 		<td><a href="https://toph.co/p/kitorp-and-his-love">Kitorp and His Love</a></td>
 		<td>Toph</td>
 		<td>Trailling Zero</td>
